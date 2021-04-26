@@ -1,0 +1,13 @@
+.login-bj{
+  height: 100vh;
+  padding-top: 50px;
+  background: url('../img/login.jpeg') no-repeat;
+}
+#login-form {
+  width: 500px;
+  height: 260px;
+  padding: 50px 50px 0 0;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+}
